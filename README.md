@@ -20,7 +20,7 @@ I'm Vishnupriya Erakasani — a student and an enthusiastic developer passionate
 - ⚡ **Creative Arts Incharge** – ELC CBIT  
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](www.linkedin.com/in/erakasani-vishnu-priya-2a5a33294)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/erakasani-vishnu-priya-2a5a33294/)  
 - 🐙 [GitHub](https://github.com/VishnupriyaErakasani)
 - 📧 **ekrishhnaveni2005@gmail.com**  
 
