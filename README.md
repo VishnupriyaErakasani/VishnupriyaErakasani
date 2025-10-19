@@ -17,7 +17,7 @@ I'm Vishnupriya Erakasani — a student and an enthusiastic developer passionate
 - **Machine Learning & AI**: Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI).
 - **Version Control & Collaboration**: Git, GitHub.
 - **Development Tools**: Visual Studio Code (VSCode), Jupyter Notebook, Google Colab.
-- **CI/CD & Automation**: Jenkins.
+- **DevOps / CI-CD & Containerization**: Docker, Jenkins, Gitlab, Kubernetes
 - **Documentation**: Overleaf
 
 
