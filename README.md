@@ -11,18 +11,23 @@ I'm Vishnupriya Erakasani — a student and an enthusiastic developer passionate
 - 🌱 Passionate about **AI, Machine Learning**.  
 - 🔎 Exploring **Generative AI, Deep Learning, and Cybersecurity**.
   
-## 🛠️ Tech Stack
-- **Languages**: Python, HTML/CSS  
-- **Frameworks & Libraries**: React.js, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib  
-- **Tools**: Git, GitHub/GitLab, VS Code, Postman, Overleaf
+## 🛠️ Technologies (Frameworks, Libraries, Tools)
+- **Programming Languages**: Python, JavaScript (JS), HTML, CSS.
+- **Frameworks & Libraries**: TensorFlow, Keras, NumPy, Pandas.
+- **Machine Learning & AI**: Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI).
+- **Version Control & Collaboration**: Git, GitHub.
+- **Development Tools**: Visual Studio Code (VSCode), Jupyter Notebook, Google Colab.
+- **CI/CD & Automation**: Jenkins.
+- **Documentation**: Overleaf
 
-## 🌟 Roles & Communities
-- ⚡ **Creative Arts Incharge** – ELC CBIT  
+
+## 🌟 Roles 
+- ⚡ **Creative Arts Incharge** – ELC CBIT(Feb2024-Dec2024) 
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/erakasani-vishnu-priya-2a5a33294/)  
 - 🐙 [GitHub](https://github.com/VishnupriyaErakasani)
-- 📧 **ekrishhnaveni2005@gmail.com**  
+- 📧 **vishnupriyaerakasani3123@gmail.com**  
 
 
 ## 🌱 Learning Journey
