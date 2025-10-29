@@ -1,0 +1,61 @@
+pipeline {
+    agent none
+
+    tools {
+        maven 'M3.9'
+    }
+
+    stages {
+
+        stage('Where am I (Controller)') {
+            agent { label 'built-in' }
+            steps {
+                echo "NODE = ${env.NODE_NAME}"
+                echo "WORKSPACE = ${env.WORKSPACE}"
+            }
+        }
+
+        stage('Checkout') {
+            
+            agent { label 'win' }
+            steps {
+                checkout scm
+            }
+        }
+
+        stage('Build & Test') {
+            agent { label 'win' }
+            steps {
+                script {
+                    bat 'mvn -B clean test'
+                    bat 'mvn -B package'
+                }
+            }
+        }
+
+        stage('Archive') {
+            agent { label 'win' }
+            steps {
+                junit 'target/surefire-reports/*.xml'
+                archiveArtifacts artifacts: 'target/*.jar', fingerprint: true
+            }
+        }
+
+        stage('Parallel: Controller vs Agent') {
+            parallel {
+                stage('Controller lane') {
+                    agent { label 'built-in' }
+                    steps {
+                        echo "PARALLEL NODE = ${env.NODE_NAME}"
+                    }
+                }
+                stage('Agent lane') {
+                    agent { label 'win' }
+                    steps {
+                        bat "echo PARALLEL NODE = %NODE_NAME%"
+                    }
+                }
+            }
+        }
+    }
+}
