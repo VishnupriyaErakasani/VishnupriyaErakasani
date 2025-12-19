@@ -15,9 +15,9 @@ I'm Vishnupriya Erakasani — a student and an enthusiastic developer passionate
 - **Programming Languages**: Python, JavaScript (JS), HTML, CSS.
 - **Frameworks & Libraries**: TensorFlow, Keras, NumPy, Pandas.
 - **Machine Learning & AI**: Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI).
-- **Version Control & Collaboration**: Git, GitHub.
+- **Version Control & Collaboration**: Git, Gitlab, GitHub.
 - **Development Tools**: Visual Studio Code (VSCode), Jupyter Notebook, Google Colab.
-- **DevOps / CI-CD & Containerization**: Docker, Jenkins, Gitlab, Kubernetes
+- **DevOps / CI-CD & Containerization**: Docker, Jenkins, Kubernetes
 - **Documentation**: Overleaf
 
 
